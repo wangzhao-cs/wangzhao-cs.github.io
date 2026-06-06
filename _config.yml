@@ -5,9 +5,9 @@ title                    : "Zhao Wang (王昭)"
 title_separator          : "-"
 name                     : &name "Zhao Wang (王昭)"
 description              : &description "M.S. Student in Communication Engineering at Beijing Electronic Science and Technology Institute. Research on LLMs, explainable recommendation, fuzzy neural networks, and drug recommendation."
-url                      : https://wangzhao.github.io
+url                      : https://wangzhao-cs.github.io
 baseurl                  : ""
-repository               : "wangzhao/wangzhao.github.io"
+repository               : "wangzhao-cs/wangzhao-cs.github.io"
 
 # Site Author - sidebar content
 author:
@@ -17,7 +17,7 @@ author:
   bio              : "M.S. Student in Communication Engineering<br>Beijing Electronic Science and Technology Institute<br>Member of the CPC<br>Former PLA Hong Kong Garrison (2019-2021)"
   location         : "Beijing, China"
   employer         : "BEST Institute, Beijing"
-  uri              : "https://wangzhao.github.io"
+  uri              : "https://wangzhao-cs.github.io"
   email            : "zhaowang.cs@gmail.com"
 
   # Academic websites
