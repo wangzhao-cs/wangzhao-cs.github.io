@@ -6,3 +6,8 @@ _site/
 node_modules/
 vendor/
 .DS_Store
+assets/fonts/
+assets/webfonts/
+assets/js/main.min.js
+assets/css/academicons.css
+assets/css/academicons.min.css

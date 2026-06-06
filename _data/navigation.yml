@@ -1,0 +1,18 @@
+main:
+  - title: "About"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Honors"
+    url: /honors/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "中文"
+    url: /zh/
