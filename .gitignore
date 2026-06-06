@@ -4,7 +4,7 @@ _site/
 .jekyll-cache/
 .hugo_build.lock
 node_modules/
-vendor/
+/vendor/
 .DS_Store
 assets/fonts/
 assets/webfonts/
