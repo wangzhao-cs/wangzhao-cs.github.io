@@ -158,17 +158,26 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
+  - content
   - Dockerfile
   - Gemfile
+  - go.sum
   - Gruntfile.js
   - gulpfile.js
+  - hugo_stats.json
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
+  - package-lock.json
+  - public
   - Rakefile
   - README
+  - resources
+  - scripts
+  - talkmap
   - tmp
   - vendor
 keep_files:
