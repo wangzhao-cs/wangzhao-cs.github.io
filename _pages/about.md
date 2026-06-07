@@ -42,8 +42,4 @@ During my graduate studies at **Beijing Electronic Science and Technology Instit
 
 ## 🧩 Patents
 
-- Neural-enhanced fuzzy reasoning method and system for drug recommendation. **Patent pending**
-- Training-free cell counting method based on DINOv2 features and convolutional similarity matching. **Patent pending**
-- Semantic materialized view recommendation method based on large language models and execution verification. **Patent pending**
-- History-aware routing method and system for cold-start recommendation. **Patent pending**
-- Evidence-grounded reward method for vision-language model training. **Patent pending**
+I have filed 5 patent applications related to recommender systems, vision-language learning, and AI systems. See the full list on the [Patents](/patents/) page.
