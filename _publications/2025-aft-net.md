@@ -6,6 +6,7 @@ permalink: /publications/2025-aft-net
 date: 2025-01-01
 venue: 'Proceedings of the 8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV)'
 paperurl: '/files/aft-net.pdf'
+framework_image: '/images/publications/aft-net-framework.png'
 citation: 'Dong X, He M, Wang Z, et al. AFT-Net: Adaptive Representation Learning for Robust Crowd Counting and Localization. PRCV 2025.'
 ---
 
