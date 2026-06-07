@@ -39,3 +39,11 @@ During my graduate studies at **Beijing Electronic Science and Technology Instit
 - **[2026]** One paper accepted at **BlockSys 2026** (CCF-C)
 - **[2025]** One paper accepted at **IEEE BIBM 2025** (CCF-B, First Author)
 - **[2025]** One paper accepted at **PRCV 2025** (CCF-C)
+
+## 🧩 Patents
+
+- Neural-enhanced fuzzy reasoning method and system for drug recommendation. **Patent pending**
+- Training-free cell counting method based on DINOv2 features and convolutional similarity matching. **Patent pending**
+- Semantic materialized view recommendation method based on large language models and execution verification. **Patent pending**
+- History-aware routing method and system for cold-start recommendation. **Patent pending**
+- Evidence-grounded reward method for vision-language model training. **Patent pending**
