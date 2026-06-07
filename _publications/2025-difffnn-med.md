@@ -7,7 +7,7 @@ date: 2025-01-01
 venue: 'IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
 paperurl: '/files/difffnn-med.pdf'
 framework_image: '/images/publications/difffnn-med-framework.png'
-publication_note: 'Workshop'
+publication_note: 'Workshop track'
 citation: 'Wang Z, He M, Liang Z, et al. DiffFNN-Med: Task-Adaptive Fuzzy Neural Networks for Interpretable Medical Drug Recommendation. IEEE BIBM 2025.'
 ---
 
