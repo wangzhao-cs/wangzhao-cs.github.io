@@ -32,7 +32,7 @@ During my graduate studies at **Beijing Electronic Science and Technology Instit
 - Recommender Systems
 - Multimodal Learning
 
-## 📢 Recent News
+## 🔥 Recent News
 
 - **[2026]** Two papers submitted to **VLDB 2027** (CCF-A)
 - **[2026]** One paper accepted at **ICMR 2026** (CCF-B)
