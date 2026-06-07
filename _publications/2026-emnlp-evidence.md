@@ -7,6 +7,7 @@ permalink: /publications/2026-emnlp-evidence
 date: 2026-01-01
 venue: 'Conference on Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: '/files/evigrpo.pdf'
+framework_image: '/images/publications/evigrpo-framework.png'
 citation: 'Wang Z, et al. Evidence-Grounded Reward Shaping for Document Visual Question Answering. EMNLP 2026.'
 ---
 

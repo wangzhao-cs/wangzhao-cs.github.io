@@ -6,6 +6,7 @@ permalink: /publications/2026-blocksys-adaverify
 date: 2026-01-01
 venue: 'BlockSys 2026'
 paperurl: '/files/adaverify.pdf'
+framework_image: '/images/publications/adaverify-framework.png'
 citation: 'Dong X, Wang Z, He M, Chen W, Liang Z, Zhou R, Cheng Q. AdaVerify: Adaptive Multi-Level Verification for Blockchain-Based AI Inference. BlockSys 2026.'
 ---
 

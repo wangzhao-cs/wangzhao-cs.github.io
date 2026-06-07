@@ -30,6 +30,11 @@
       </div>
     {% endif %}
 
+    {% if post.collection == 'publications' and post.framework_image %}
+      <div class="archive__publication-row">
+        <div class="archive__publication-body">
+    {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -65,6 +70,20 @@
         <p>Recommended citation: {{ citation_highlighted }}</p>
       {% endif %}
     {% endunless %}
+
+    {% if post.collection == 'publications' and post.framework_image %}
+        </div>
+        <a class="archive__publication-figure" href="{{ base_path }}{{ post.url }}" rel="permalink" aria-label="{{ title }} framework figure">
+          <img src=
+            {% if post.framework_image contains "://" %}
+              "{{ post.framework_image }}"
+            {% else %}
+              "{{ post.framework_image | prepend: base_path }}"
+            {% endif %}
+            alt="{{ title }} framework figure">
+        </a>
+      </div>
+    {% endif %}
 
   </article>
 </div>

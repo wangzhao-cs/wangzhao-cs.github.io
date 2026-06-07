@@ -7,6 +7,7 @@ permalink: /publications/2025-hare-rec
 date: 2026-01-01
 venue: 'Expert Systems with Applications (ESWA)'
 paperurl: '/files/hare-rec.pdf'
+framework_image: '/images/publications/hare-rec-framework.png'
 citation: 'Wang Z, et al. HARE-Rec: History-Aware Routing for Explainable Cold-Start Recommendation with Auditable Semantic-Atom Diagnostics. Expert Systems with Applications (ESWA). Under Review.'
 ---
 

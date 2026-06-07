@@ -6,6 +6,7 @@ permalink: /publications/2026-icmr-tfcount
 date: 2026-01-01
 venue: 'ACM International Conference on Multimedia Retrieval (ICMR)'
 paperurl: '/files/tf-count.pdf'
+framework_image: '/images/publications/tf-count-framework.png'
 citation: 'et al., Wang Z, et al. TF-Count: A Training-Free Exemplar-Based Method for Class-Agnostic Cell Counting Using DINOv2. ICMR 2026.'
 ---
 

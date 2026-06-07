@@ -7,6 +7,7 @@ permalink: /publications/2026-wisa-eacrag
 date: 2026-01-01
 venue: 'Web Information Systems and Applications (WISA)'
 paperurl: '/files/eac-rag.pdf'
+framework_image: '/images/publications/eac-rag-framework.png'
 citation: 'Dong X, Wang Z, et al. Evidence-Aware Hallucination Detection and Correction for Retrieval-Augmented Information Systems. WISA 2026.'
 ---
 
