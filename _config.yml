@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Zhao Wang (王昭)"
 title_separator          : "-"
 name                     : &name "Zhao Wang (王昭)"
-description              : &description "M.S. Student in Communication Engineering at Beijing Electronic Science and Technology Institute. Research on LLMs, explainable recommendation, fuzzy neural networks, and drug recommendation."
+description              : &description "M.S. Student in Communication Engineering at Beijing Electronic Science and Technology Institute. Research on large language models, recommender systems, and multimodal learning."
 url                      : https://wangzhao-cs.github.io
 baseurl                  : ""
 repository               : "wangzhao-cs/wangzhao-cs.github.io"
