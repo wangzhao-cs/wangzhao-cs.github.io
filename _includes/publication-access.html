@@ -1,0 +1,12 @@
+{% assign publication = include.item | default: page %}
+{% assign access_email = site.author.email | default: "zhaowang.cs@gmail.com" %}
+{% assign access_note = include.note | default: "This manuscript is under review. Please contact the author for the password." %}
+{% assign access_label = include.button_label | default: "Request Password" %}
+
+<div class="publication-access{% if include.compact %} publication-access--compact{% endif %}">
+  <div class="publication-access__copy">
+    <p class="publication-access__eyebrow"><i class="fa fa-lock" aria-hidden="true"></i> Access restricted</p>
+    <p class="publication-access__note">{{ access_note }}</p>
+  </div>
+  <a class="btn btn--warning btn--small publication-access__button" href="mailto:{{ access_email }}?subject={{ "Request access for " | append: publication.title | url_encode }}"><i class="fa fa-lock" aria-hidden="true"></i> {{ access_label }}</a>
+</div>

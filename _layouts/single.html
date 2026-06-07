@@ -57,7 +57,9 @@ layout: default
           {% endunless %}
         {% endif %}
 
-        {% if page.paperurl %}
+        {% if page.under_review %}
+          {% include publication-access.html item=page %}
+        {% elsif page.paperurl %}
           <iframe src="{{ page.paperurl }}" width="100%" height="800px" style="border: 1px solid #ddd; margin-top: 1em;"></iframe>
         {% endif %}
 

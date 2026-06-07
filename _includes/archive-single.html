@@ -69,6 +69,8 @@
       {% if post.citation %}
         <p>Recommended citation: {{ citation_highlighted }}</p>
       {% endif %}
+    {% else %}
+      {% include publication-access.html item=post compact=true %}
     {% endunless %}
 
     {% if post.collection == 'publications' and post.framework_image %}
