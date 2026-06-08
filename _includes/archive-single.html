@@ -65,11 +65,9 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% unless post.under_review %}
-      {% if post.citation %}
-        <p>Recommended citation: {{ citation_highlighted }}</p>
-      {% endif %}
-    {% endunless %}
+    {% if post.citation %}
+      <p>Recommended citation: {{ citation_highlighted }}</p>
+    {% endif %}
 
     {% if post.collection == 'publications' and post.framework_image %}
         </div>
